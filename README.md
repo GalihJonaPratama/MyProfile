@@ -6,7 +6,7 @@
 <h4 align="center">I Am. Galih Jona Pratama</h4>
 
 ###
-![Galih Jona](img/github-header-banner.jpg)
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
