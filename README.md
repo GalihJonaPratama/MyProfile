@@ -6,7 +6,7 @@
 <h4 align="center">I Am. Galih Jona Pratama</h4>
 
 ###
-
+![welcome guys](https://litter.catbox.moe/jm36bmal9uiy4kus.jpg)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
