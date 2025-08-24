@@ -7,7 +7,7 @@
 
 ###
 
-![welcome guys](https://litter.catbox.moe/jm36bmal9uiy4kus.jpg)
+![welcome guys](https://litter.catbox.moe/57rzw5xc81y4ya7x.png)
 
 ###
 <div align="center">
